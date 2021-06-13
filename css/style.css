@@ -1,0 +1,174 @@
+/* *{
+    border: solid 1px black;
+} */
+
+/* ACUUEIL */
+.background_accueil{
+    background-image: url(../assets/img/herbe\ mouiller.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.box_welcome{
+    margin-top: 100px;
+    border: solid 6px rgb(60, 231, 45);
+    border-radius: 25px;
+}
+
+#welcome{
+    font-size: 12vh;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+#on_my{
+    font-size: 8vh;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+#portfolio{
+    font-size: 12vh;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+/* FIN ACCUEIL */
+
+
+/* PROFIL */
+
+.titre_profil{
+    background-color: black;
+}
+
+.profil{
+    color: white;
+}
+
+.box_profil{
+    background-image: url(../assets/img/palme.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.box_img_profil{
+    margin-top: 30px;
+}
+
+.box_presentation{
+    background: linear-gradient(rgba(64, 219, 50, 0.657),rgba(51, 160, 233, 0.767));
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+
+.text_presentation{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn_cv{
+    background-color: rgb(214, 255, 251);
+    border-radius: 25px ;
+    margin-bottom: 10px;
+}
+/* FIN PROFIL */
+
+
+/* COMPETENCES */
+
+.background_competences{
+    background-image: url(../assets/img/palme\ de\ cocotier.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titre_competences{
+    background-color: black;
+}
+
+.competences{
+    color: white;
+}
+
+#front-end{
+    color: rgb(29, 255, 59);
+    font-weight: bolder;
+}
+
+.ranger_front{
+    margin-top: 20px;
+}
+
+.box_front-end{
+    margin-top: 30px;
+}
+
+.nom_competences{
+    color: rgb(71, 230, 216);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.nom_competences_2{
+    color: rgb(214, 65, 207);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+#back-end{
+    color: rgb(29, 255, 59);
+    font-weight: bolder;
+}
+
+.ranger_back{
+    margin-top: 20px;
+}
+
+.box_back-end{
+    margin-top: 30px;
+}
+
+/* FIN DES COMPETENCES */
+
+/* CONTACT */
+
+.back_ground_contact{
+    background-color: rgb(163, 107, 44);
+    border-radius: 25px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.tel{
+    font-weight: bolder;
+    color: rgb(110, 45, 2);
+    text-decoration: underline;
+}
+
+.num{
+    font-weight: bolder;
+    color: rgb(110, 45, 2);
+}
+
+.email{
+    font-weight: bolder;
+    color: rgb(110, 45, 2);
+    text-decoration: underline;
+}
+
+.mail{
+    font-weight: bolder;
+    color: rgb(110, 45, 2);
+}
+
+/* FIN DE CONTACT */
